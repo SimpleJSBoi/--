@@ -1,0 +1,1 @@
+function bypass() {var password = document.getElementById("myText").value;if (password == "Hababadooda") {location.href = "https://raw.githubusercontent.com/SimpleJSBoi/myWebsite/main/css/thing.js";}else {}}
